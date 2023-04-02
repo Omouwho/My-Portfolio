@@ -89,6 +89,11 @@ p {
   color: white;
 }
 
+.weathertt{
+    height: 400px;
+    width: 490px;
+}
+
 
 @media (max-width: 600px){
     h1{
